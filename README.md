@@ -18,5 +18,5 @@
 - 📄 Certificate: https://coursera.org/verify/YR9DJWYJEA38
 ### Git & Github bootcamp
 - 📅 Issued: Dec 1, 2025
-- 📄 Certificate: ude.my/UC-1f3bbdf1-c816-481f-a4fc-3b4159c5c69f
+- 📄 Certificate: udemy/UC-1f3bbdf1-c816-481f-a4fc-3b4159c5c69f
 
