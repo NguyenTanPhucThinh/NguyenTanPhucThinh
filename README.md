@@ -26,7 +26,8 @@
       </a>
       <br><br>
     </td>
-    <td align="center" width="50%" valign="top">
+
+  <td align="center" width="50%" valign="top">
       <br>
       <img src="https://img.shields.io/badge/Stanford%20Online-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
       <br><br>
@@ -48,6 +49,32 @@
       <br><br>
     </td>
   </tr>
+
+  <tr>
+  <td align="center" width="50%" valign="top">
+    <br>
+    <img src="https://img.shields.io/badge/DeepLearning.AI-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
+    <br><br>
+    <b>📝 Natural Language Processing with Attention Models</b>
+    <br><br>
+    <img src="https://img.shields.io/badge/Attention%20Mechanisms-6C63FF?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Transformers-6C63FF?style=flat-square&logoColor=white"/>
+    <br>
+    <img src="https://img.shields.io/badge/Text%20Summarization-6C63FF?style=flat-square&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Question%20Answering-6C63FF?style=flat-square&logoColor=white"/>
+    <br>
+    <img src="https://img.shields.io/badge/Machine%20Translation-6C63FF?style=flat-square&logoColor=white"/>
+    <br><br>
+    <sub>📅 Issued: <b>2026</b></sub>
+    <br><br>
+    <a href="https://coursera.org/share/bee91c77f08bf081b4318111e2e6222e">
+      <img src="https://img.shields.io/badge/View%20Certificate-6C63FF?style=for-the-badge&logo=coursera&logoColor=white"/>
+    </a>
+    <br><br>
+  </td>
+
+  <td width="50%"></td>
+</tr>
 </table>
 
 <br>
